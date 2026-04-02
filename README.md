@@ -6,8 +6,6 @@
 ![Nginx](https://img.shields.io/badge/Web%20Server-Nginx-green)
 ![DevOps](https://img.shields.io/badge/Practice-DevOps-orange)
 
-# Mini Finance Website Deployment using Terraform and Ansible
-
 This project demonstrates how to deploy a static website on **Microsoft Azure** using **Terraform for infrastructure provisioning** and **Ansible for configuration management**.
 
 The goal of the project is to practice real-world **DevOps automation workflows**, where infrastructure is provisioned programmatically and application configuration is automated.
